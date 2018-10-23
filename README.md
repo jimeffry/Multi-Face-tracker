@@ -1,22 +1,7 @@
 # Kalman Filter introduction and implementation
  The papers are in papers directory.
-Multi Object Tracker Using Kalman Filter & Hungarian Algorithm
+# Multi Face Tracker Using Kalman Filter & Hungarian Algorithm
 ----
-- Author: Srini Ananthakrishnan  
-- Project: DSCI-6008 Final Project
-- Date: 07/14/2017
-
-
-- Usage:  
-$ python2.7 objectTracking.py  
-
-- Design:  
-
-<img src="images/KF_arch.png" height="400"/>  
-
-- Output:  
-
-<img src="images/KF_output.png" height="400"/>  
 
 - Pre-requisite:  
     - Python2.7  
